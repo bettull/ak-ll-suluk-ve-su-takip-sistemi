@@ -167,5 +167,5 @@ suIhtiyaci = kilo * YENİ_ORAN / 1000.0;
 
 
 ##  İletişim
-betül başboğa 
-betulbasboga921@gmail.com
+Betül Başboğa 
+
