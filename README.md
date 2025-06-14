@@ -1,5 +1,5 @@
 # ak-ll-suluk-ve-su-takip-sistemi
-Bu proje, bireylerin günlük su tüketimini takip etmelerini kolaylaştırmak için geliştirilmiş bir **akıllı suluk sistemidir**. Kullanıcıdan yaş ve kilo bilgisi alır, buna göre günlük su ihtiyacını hesaplar ve HC-SR04 sensörüyle şişedeki su seviyesini ölçer. 1 dakikadan uzun süre su içilmediğinde LED ve buzzer ile kullanıcıyı uyarır.
+Bu proje, bireylerin günlük su tüketimini takip etmelerini kolaylaştırmak için geliştirilmiş bir **akıllı suluk sistemidir**. Kullanıcıdan yaş ve kilo bilgisi alır, buna göre günlük su ihtiyacını hesaplar ve HC-SR04 sensörüyle şişedeki su seviyesini ölçer.  uzun süre su içilmediğinde LED ve buzzer ile kullanıcıyı uyarır.
 
 ## Kullanılan Bileşenler
 
