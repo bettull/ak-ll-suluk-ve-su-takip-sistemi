@@ -43,6 +43,9 @@ suSeviyesi = 2.0 * (1.0 - (mesafe / 25.0)); // 25 cm’lik şişeye göre
 
  Reset Butonu
 A0 pinine bağlı olan buton, LED ve buzzer'ı kapatır ve sistemi başa döndürür.
+
+ 
+ 
  Geliştirici: Betül Başboğa
  Proje Tarihi: 17 Haziran 2025
 
